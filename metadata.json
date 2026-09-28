@@ -1,6 +1,7 @@
 {
-  "name": "",
-  "description": "",
+  "name": "destroyer",
+  "description": "Destroyer Engine - Next-generation flat-architecture WebGPU rendering engine with compute indirect draws, subgroup optimizations, GLB loader, and vertex animation.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
+
